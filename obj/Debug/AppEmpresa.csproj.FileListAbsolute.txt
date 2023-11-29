@@ -1,0 +1,14 @@
+C:\Programas\AppEmpresa\bin\Debug\DbEmpresa.mdf
+C:\Programas\AppEmpresa\bin\Debug\DbEmpresa_log.ldf
+C:\Programas\AppEmpresa\bin\Debug\AppEmpresa.exe.config
+C:\Programas\AppEmpresa\bin\Debug\AppEmpresa.exe
+C:\Programas\AppEmpresa\bin\Debug\AppEmpresa.pdb
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.csproj.AssemblyReference.cache
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.csproj.SuggestedBindingRedirects.cache
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.FormPrincipal.resources
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.Properties.Resources.resources
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.csproj.GenerateResource.cache
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.csproj.CoreCompileInputs.cache
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.exe
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.pdb
+C:\Programas\AppEmpresa\obj\Debug\AppEmpresa.FormAniversariantes.resources
